@@ -1,4 +1,4 @@
-# hold-up
+# hold-up [![Build Status](https://semaphoreci.com/api/v1/rafaelrinaldi/hold-up/branches/master/badge.svg)](https://semaphoreci.com/rafaelrinaldi/hold-up)
 
 > Wait until a given condition is true
 
