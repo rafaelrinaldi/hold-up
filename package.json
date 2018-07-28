@@ -1,0 +1,28 @@
+{
+  "name": "hold-up",
+  "version": "1.0.0",
+  "description": "Wait until a given condition is true",
+  "license": "MIT",
+  "repository": "github:rafaelrinaldi/hold-up",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.6"
+  },
+  "keywords": [
+    "promise",
+    "wait",
+    "hold",
+    "process",
+    "pending"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "NODE_ENV=test prettier-standard *.js && jest --env=node --verbose"
+  },
+  "devDependencies": {
+    "jest-cli": "^23.4.2",
+    "prettier-standard": "^8.0.0"
+  }
+}
