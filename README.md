@@ -5,13 +5,13 @@
 ## Install
 
 ```sh
-npm install hold-up
+npm install @rafaelrinaldi/hold-up
 ```
 
 ## Usage
 
 ```js
-import holdUp from 'hold-up'
+import holdUp from '@rafaelrinaldi/hold-up'
 
 async function injectVendorScript() {
   // Asynchronously load a cheesy vendor script that triggers a bunch of other

@@ -1,5 +1,5 @@
 {
-  "name": "hold-up",
+  "name": "@rafaelrinaldi/hold-up",
   "version": "1.0.0",
   "description": "Wait until a given condition is true",
   "license": "MIT",
