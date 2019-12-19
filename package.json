@@ -1,6 +1,6 @@
 {
   "name": "@rafaelrinaldi/hold-up",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wait until a given condition is true",
   "license": "MIT",
   "repository": "github:rafaelrinaldi/hold-up",
